@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(231, 187, 143);
+    text-align: center;
+}
+h1{
+    font-family: cursive;
+}
+::placeholder{
+    opacity: 50%;
+    color: white;
+}
+.input-box{
+    background-color: rgb(105, 105, 121);
+    border-radius: 10px;
+    margin-left: 1rem;
+    border-color: antiquewhite;
+    text-align: center;
+    color: aliceblue;
+    text-decoration: solid;
+}
+.input-fields{
+    margin: 2rem auto;
+}
+button{
+    border-radius: 10px;
+    color:white;
+    text-decoration: solid;
+    background-color: rgb(64, 64, 228);
+}
